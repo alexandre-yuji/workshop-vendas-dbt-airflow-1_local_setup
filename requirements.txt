@@ -1,0 +1,1 @@
+dbt-core dbt-postgres duckdb faker pandas numpy
